@@ -1,4 +1,5 @@
-### Hi there 👋
+### ¡Hola 👋! Soy liyodev
+Soy desarrollador de Software y aprendiendo programación para videojuegos.
 
 <!--
 **liyo-dev/liyo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
