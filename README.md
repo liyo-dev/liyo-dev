@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/liyo-dev/assets/raw/main/IMG_3730.jpg" alt="liyodev" width="50" style="border-radius:50%">
+<img src="https://github.com/liyo-dev/assets/raw/main/IMG_3730.jpg" alt="liyodev" width="100" style="border-radius:50%">
 
 ### ¡Hola 👋! Soy liyodev
 Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
