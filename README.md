@@ -1,6 +1,9 @@
 ### ¡Hola 👋! Soy liyodev
 Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.
-¡Revisa mis juegos [aquí](https://liyodev.itch.io/) 👇!
+¡Revisa mis juegos 👇!
+[aquí](https://liyodev.itch.io/)
+
+
 
 <!--
 **liyo-dev/liyo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
