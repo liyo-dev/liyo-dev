@@ -2,6 +2,10 @@
 Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.
 ¡Revisa mis juegos [![aquí](https://github.com/liyo-dev/assets/raw/main/itch-io-icon-2048x2048-i6hzclad.png)](https://liyodev.itch.io/) 👇!
 
+<!-- Ajustar el tamaño de la imagen agregando el atributo width -->
+<img src="https://github.com/liyo-dev/assets/raw/main/itch-io-icon-2048x2048-i6hzclad.png" alt="aquí" width="100">
+
+
 
 
 
