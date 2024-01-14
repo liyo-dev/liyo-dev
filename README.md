@@ -2,7 +2,7 @@
 
 <!-- Contenedor redondeado para la foto de perfil -->
 <div style="width: 150px; height: 150px; overflow: hidden; border-radius: 50%; border: 5px solid white;">
-  <img src="URL_DE_LA_IMAGEN" alt="liyodev" style="width: 100%; height: 100%; object-fit: cover;">
+  <img src="https://github.com/liyo-dev/assets/blob/main/IMG_3730.jpg" alt="liyodev" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
 ### ¡Hola 👋! Soy liyodev
