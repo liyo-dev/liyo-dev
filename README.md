@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/liyo-dev/assets/raw/main/IMG_3730.jpg" alt="liyodev" width="150" style="border-radius: 50%">
+<!-- Contenedor con border-radius para la foto de perfil -->
+<div style="width: 150px; height: 150px; overflow: hidden; border-radius: 50%">
+  <img src="https://github.com/liyo-dev/assets/raw/main/IMG_3730.jpg" alt="liyodev" width="150">
+</div>
 
 ### ¡Hola 👋! Soy liyodev
 Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
@@ -10,6 +13,7 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
 <img src="https://github.com/liyo-dev/assets/raw/main/itch-io-icon-2048x2048-i6hzclad.png" alt="aquí" width="40">
 
 </div>
+
 
 
 
