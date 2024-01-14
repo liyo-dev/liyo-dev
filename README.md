@@ -1,5 +1,5 @@
 ### ¡Hola 👋! Soy liyodev
-Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.
+Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
 ¡Revisa mis juegos 👇!
 
 <img href="https://liyodev.itch.io/" src="https://github.com/liyo-dev/assets/raw/main/itch-io-icon-2048x2048-i6hzclad.png" alt="aquí" width="50">
