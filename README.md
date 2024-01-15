@@ -22,10 +22,11 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
     </a>
   </div>
 </div>
+   <p>Web para NoNameGames</p>
+    <a href="https://nonamegames.es/" target="_blank">
+      <img src="https://github.com/liyo-dev/assets/blob/main/1500x500banner.jpeg" alt="web nonamegames" style="width: 30%; max-width: 400px; border-radius: 10px; background-color: white;">
+    </a>
 </div>
 
 
-    <p>Web para NoNameGames</p>
-    <a href="https://nonamegames.es/" target="_blank">
-      <img src="https://github.com/liyo-dev/assets/blob/main/1500x500banner.jpeg" alt="Otro Trabajo" style="width: 100%; max-width: 400px; border-radius: 10px; background-color: white;">
-    </a>
+   
