@@ -2,7 +2,7 @@
 
 <!-- Contenedor redondeado para la foto de perfil -->
 <div style="width: 150px; height: 150px; overflow: hidden; border-radius: 50%; border: 5px solid white;">
-  <img src="https://drive.google.com/file/d/1bidV7hesR446mVNh4wR3idjvveVleBlY/view?usp=drive_link" alt="liyodev" style="width: 20%; height: 20%; border-radius: 50%; object-fit: cover;">
+  <img src="[https://drive.google.com/file/d/1bidV7hesR446mVNh4wR3idjvveVleBlY/view?usp=drive_link](https://github.com/liyo-dev/assets/blob/main/profile-pic.png)" alt="liyodev" style="width: 20%; height: 20%; border-radius: 50%; object-fit: cover;">
 </div>
 
 ### ¡Hola 👋! Soy liyodev
