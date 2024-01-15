@@ -9,7 +9,6 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
 ¡Revisa mis juegos 👇!<br>
   <img src="https://github.com/liyo-dev/assets/raw/main/itch-io-icon-2048x2048-i6hzclad.png" alt="aquí" width="40">
 </div>
-- ![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#f03c15`
 <!-- Sección de Últimos trabajos realizados -->
 <div style="display: flex; justify-content: space-between;">
 <div align="center">
@@ -20,7 +19,7 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
     <p>Juego: Alex´s Adventure</p>
     <a href="https://nonamegamesmlg.itch.io/alexs-adventure-the-curse-of-eternal-night" target="_blank">
       <img src="https://github.com/liyo-dev/assets/blob/main/logo_itch_banner.png" alt="Alex´s Adventure" style="width: 30%; max-width: 400px; border-radius: 10px; background-color: white;">
- - ![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#f03c15`<p>Web para NoNameGames</p>
+    <p>Web para NoNameGames</p>
     <a href="enlace_otro_trabajo" target="_blank">
       <img src="enlace_a_la_imagen_otro_trabajo" alt="Otro Trabajo" style="width: 100%; max-width: 400px; border-radius: 10px; background-color: white;">
     </a>
