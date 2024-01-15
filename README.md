@@ -14,6 +14,20 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
 
 </div>
 
+<!-- Sección de Últimos trabajos realizados -->
+<div align="center">
+
+  <!-- Título -->
+  <h2>Últimos trabajos realizados</h2>
+
+  <!-- Enlace con imagen -->
+  <a href="https://nonamegamesmlg.itch.io/alexs-adventure-the-curse-of-eternal-night" target="_blank">
+    <img src="https://github.com/liyo-dev/assets/blob/main/Logo%20juego_HD.png" alt="Últimos trabajos" style="width: 100%; max-width: 600px;">
+  </a>
+
+</div>
+
+
 
 
 
