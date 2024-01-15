@@ -11,6 +11,7 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
 </div>
 
 <!-- Sección de Últimos trabajos realizados -->
+<div style="display: flex; justify-content: space-between;">
 <div align="center">
   <!-- Título -->
   <h2>Últimos trabajos realizados</h2>
@@ -28,4 +29,5 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
       <img src="enlace_a_la_imagen_otro_trabajo" alt="Otro Trabajo" style="width: 100%; max-width: 400px; border-radius: 10px; background-color: white;">
     </a>
   </div>
+</div>
 </div>
