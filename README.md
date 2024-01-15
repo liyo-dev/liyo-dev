@@ -23,7 +23,7 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
   <!-- Tarjeta con enlace e imagen -->
   <div style="background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100px">
     <a href="https://nonamegamesmlg.itch.io/alexs-adventure-the-curse-of-eternal-night" target="_blank">
-      <img src="https://github.com/liyo-dev/assets/blob/main/Logo%20juego_HD.png" alt="Últimos trabajos" style="width: 50%; max-width: 400px; border-radius: 10px; background-color: white;">
+      <img src="https://github.com/liyo-dev/assets/blob/main/logo_itch_banner.png" alt="Últimos trabajos" style="width: 50%; max-width: 400px; border-radius: 10px; background-color: white;">
     </a>
   </div>
 
