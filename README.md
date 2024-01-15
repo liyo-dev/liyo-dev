@@ -20,12 +20,15 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
   <!-- Título -->
   <h2>Últimos trabajos realizados</h2>
 
-  <!-- Enlace con imagen -->
-  <a href="https://nonamegamesmlg.itch.io/alexs-adventure-the-curse-of-eternal-night" target="_blank">
-    <img src="https://github.com/liyo-dev/assets/blob/main/Logo%20juego_HD.png" alt="Últimos trabajos" style="width: 20%; max-width: 600px;">
-  </a>
+  <!-- Tarjeta con enlace e imagen -->
+  <div style="background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <a href="https://nonamegamesmlg.itch.io/alexs-adventure-the-curse-of-eternal-night" target="_blank">
+      <img src="https://github.com/liyo-dev/assets/blob/main/Logo%20juego_HD.png" alt="Últimos trabajos" style="width: 100%; max-width: 400px; border-radius: 10px;">
+    </a>
+  </div>
 
 </div>
+
 
 
 
