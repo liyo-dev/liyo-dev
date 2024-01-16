@@ -13,7 +13,7 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
 <div style="display: flex; justify-content: space-between;">
 <div align="left">
   <!-- Título -->
-  <h2>Últimos trabajos realizados</h2>
+  <h2>Últimos trabajos realizados</h2> <h2>Juegos de Game Jams</h2>
   <!-- Tarjeta 1: Juego Alex´s Adventure -->
   <div style="background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 45%; margin-right: 10px;">
     <p>Juego: Alex´s Adventure</p>
