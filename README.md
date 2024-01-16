@@ -11,7 +11,7 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
 </div>
 <!-- Sección de Últimos trabajos realizados -->
 <div style="display: flex; justify-content: space-between;">
-<div align="center">
+<div align="left">
   <!-- Título -->
   <h2>Últimos trabajos realizados</h2>
   <!-- Tarjeta 1: Juego Alex´s Adventure -->
@@ -28,5 +28,4 @@ Soy desarrollador de Software y en mi tiempo libre desarrollo videojuegos.<br>
     </a>
     </div>
 </div>
-
 </div>
