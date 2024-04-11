@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Foto de perfil -->
 <div style="width: 150px; height: 150px; overflow: hidden; border-radius: 50%; border: 5px solid white;">
-  <img src="https://github.com/liyo-dev/assets/blob/main/profile-pic.png" alt="liyodev" style="width: 20%; height: 20%; border-radius: 50%; object-fit: cover;">
+<!--   <img src="https://github.com/liyo-dev/assets/blob/main/profile-pic.png" alt="liyodev" style="width: 20%; height: 20%; border-radius: 50%; object-fit: cover;"> -->
 </div>
 
 ### ¡Hola 👋! Soy liyodev
