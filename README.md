@@ -6,8 +6,4 @@
 
 ### ¡Hola 👋! Soy liyodev
 Software Developer especializado en frontend y backend, con dominio de Angular, Java y Spring Boot. Cuento con experiencia en docencia tecnológica y en el desarrollo de proyectos propios de videojuegos. Destaco por mi capacidad de adaptación, trabajo en equipo y pasión por la programación.<br>
-¡Revisa mis juegos 👇!<br><br>
-<a href="https://liyodev.itch.io/" target="_blank">
-  <img src="https://github.com/liyo-dev/assets/raw/main/itch-io-icon-2048x2048-i6hzclad.png" alt="aquí" width="40">
-</a>
 </div>
