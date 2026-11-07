@@ -1,9 +1,29 @@
-<div align="center">
-<!-- Foto de perfil -->
-<div style="width: 150px; height: 150px; overflow: hidden; border-radius: 50%; border: 5px solid white;">
-<!--   <img src="https://github.com/liyo-dev/assets/blob/main/profile-pic.png" alt="liyodev" style="width: 20%; height: 20%; border-radius: 50%; object-fit: cover;"> -->
-</div>
+# liyodev
 
-### ¡Hola 👋! Soy liyodev
-Software Developer especializado en frontend y backend, con dominio de Angular, Java y Spring Boot. Cuento con experiencia en docencia tecnológica y en el desarrollo de proyectos propios de videojuegos. Destaco por mi capacidad de adaptación, trabajo en equipo y pasión por la programación.<br>
-</div>
+Hago videojuegos y escribo historias. Desarrollador fullstack de profesión.
+
+## Ahora mismo
+
+**El Sendero de las Estrellas** — juego de rol y aventura en 3D con mundo abierto, hecho en solitario con Unity 6 y basado en mi novela.
+
+[Web del juego](https://senderoestrellasweb.web.app/) · [Código](https://github.com/liyo-dev/ElSenderoDeLasEstrellas) · [La novela](https://www.amazon.es/dp/B0HGYNK1J6)
+
+## Mis juegos
+
+Muchos nacieron en game jams. Están todos en [itch.io](https://liyodev.itch.io/).
+
+## Otros proyectos
+
+| Proyecto | Qué es | Tecnología |
+|---|---|---|
+| [pixel-wars](https://github.com/liyo-dev/pixel-wars) | Juego multijugador en el navegador | Deno Fresh, TypeScript |
+| [chat](https://github.com/liyo-dev/chat) | Chat en tiempo real | Node, Express, socket.io |
+| [lanzador-microservicios](https://github.com/liyo-dev/lanzador-microservicios) | Lanzador de microservicios | TypeScript |
+
+## Con qué trabajo
+
+Unity · C# · Angular · TypeScript · Java · Spring Boot · Node
+
+## Dónde encontrarme
+
+[Web](https://liyodev.web.app/) · [itch.io](https://liyodev.itch.io/) · [Instagram](https://www.instagram.com/liyo.dev) · [LinkedIn](https://www.linkedin.com/in/liyodev)
