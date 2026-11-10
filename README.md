@@ -1,5 +1,4 @@
 <h2 align="center">¡Hola! Soy Raúl, aka liyodev 👋</h2>
-<p align="center">Hago videojuegos y escribo historias. Desarrollador fullstack de profesión.</p>
 
 <p align="center">
   <a href="https://liyodev.web.app/"><img src="https://img.shields.io/badge/Web-liyodev-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Web" /></a>
